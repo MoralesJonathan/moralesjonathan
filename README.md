@@ -11,7 +11,7 @@
 
 <hr />
 
-<p> 
+<p align="center"> 
  <img alt="Linkedin" src="https://img.shields.io/badge/Connect-Jonathan-lightgrey?logo=linkedin&style=flat-square&link=linkedin.com/in/jonmorazav"/>
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/moralesjonathan?color=lightgrey&label=Follow%20Me&logo=github&style=flat-square"/>
   <img alt="Email" src="https://img.shields.io/badge/Email-moralesjonathan-lightgrey?logo=gmail&logoColor=white&style=flat-square&link=mailto:moralesjonathan@email.com"/>
