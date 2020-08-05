@@ -3,7 +3,7 @@
 <br />
 <p align="center"> 
  <img alt="Work status: Employed" src="https://img.shields.io/badge/Employed-Yes-brightgreen.svg?style=flat-square"/> 
- <img alt="Visitors" src="http://hits.dwyl.com/moralesjonathan/moralesjonathan.svg" />
+ <img alt="Visitors" src="https://views.whatilearened.today/views/github/moralesjonathan/moralesjonathan.svg" />
 </p>
 <p align="center"> 
 <img alt="Jonathan's github stats" src="https://github-readme-stats.vercel.app/api?username=moralesjonathan&show_icons=true" />
