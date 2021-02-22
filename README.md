@@ -1,5 +1,5 @@
 <h3 align="center"> Hi there I'm Jonathan 👋🏽</h3>
-<h4 align="center"> 23 Year old developer from Miami 🌴</h4>
+<h4 align="center"> 24 Year old developer from Miami 🌴</h4>
 <br />
 <p align="center"> 
  <img alt="Work status: Employed" src="https://img.shields.io/badge/Employed-Yes-brightgreen.svg?style=flat-square"/> 
